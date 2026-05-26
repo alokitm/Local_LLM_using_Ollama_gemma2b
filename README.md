@@ -58,10 +58,6 @@ ollama pull gemma:2b
 
 # ▶️ Run Application
 
-```bash id="k9q2wc"
-cd 1-Langchain/1.2-ollama
-```
-
 ```bash id="v4m8tx"
 streamlit run app.py
 ```
